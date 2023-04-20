@@ -1,2 +1,3 @@
-# moureDev_Tutorial
-Youtube chanel
+# MoureDev Tutorial
+
+this repo is based on a Youtube channel
